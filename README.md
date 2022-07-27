@@ -1,7 +1,7 @@
 # EDA sobre los juegos de STEAM
 Realizado por Adán Bustos para las clases de TheBridge
 
-En este EDA mse representan los datos de STEAM. Se intenta encontran una solución sobre la creación de videojuegos en base a los recursos de una emmpresa(Triple A, Indie, etc..), también muestro características de la plataforma.
+En este EDA se representan los datos de STEAM. Se intenta encontran una solución sobre la creación de videojuegos en base a los recursos de una emmpresa(Triple A, Indie, etc..), también muestro características de la plataforma.
 El trabajo fue realizado en 3 días, incluyendo la limpieza de los datos.
 
 La presentación:
