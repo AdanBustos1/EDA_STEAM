@@ -1,5 +1,8 @@
 # EDA sobre los juegos de STEAM
-Realizado por Adán Bustos para las clases de TheBridge
+Realizado por Adán Bustos.
+
+![steam](https://cloudfront-us-east-1.images.arcpublishing.com/infobae/MCH7YG2IPZGZRPSCGWYGG6KFZ4.jpg)
+
 
 En este EDA se representan los datos de STEAM.
 
